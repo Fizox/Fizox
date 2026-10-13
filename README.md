@@ -30,7 +30,11 @@ Computer Systems Engineer specialized in designing, developing, and integrating 
 **Tools & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,git,aws&theme=dark" alt="Django, Bootstrap, Git, AWS" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,django,tailwind,bootstrap,git,aws&theme=dark" alt="Node.js, React, Django, Tailwind CSS, Bootstrap, Git, AWS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 ---
