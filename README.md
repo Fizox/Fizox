@@ -14,6 +14,7 @@ Computer Systems Engineer specialized in designing, developing, and integrating 
 | :-- | :-- |
 | 🎓 **Background** | Computer Systems Engineering |
 | 🧰 **Focus** | Full Stack Development · Python · MySQL |
+| 🚀 **Co-Founder** | [Novatrix Digital](https://novatrixdigital.com), a web development agency |
 | ☁️ **Deployment** | AWS ECS & EC2 |
 
 ---
@@ -85,6 +86,7 @@ Computer Systems Engineer specialized in designing, developing, and integrating 
 
 <div align="center">
 
+[![Novatrix Digital](https://img.shields.io/badge/Novatrix_Digital-FD5523?style=for-the-badge&logo=googlechrome&logoColor=white)](https://novatrixdigital.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbjoma)
 [![Gmail](https://img.shields.io/badge/Gmail-engmohamadjoma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engmohamadjoma@gmail.com)
 
